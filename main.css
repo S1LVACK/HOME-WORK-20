@@ -1,0 +1,126 @@
+.menu {
+  width: 100%;
+  height: 68px;
+  display: flex;
+  justify-content: center;
+}
+.menu .menu-own {
+  margin: auto;
+  width: 80%;
+  height: 68px;
+  display: flex;
+}
+.menu .menu-own .bar {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+  height: 100%;
+  font-size: 25px;
+}
+.menu .menu-own .txt-own {
+  display: flex;
+  justify-content: end;
+  width: 650px;
+  height: 68px;
+  font-size: 24px;
+}
+.menu .menu-own .txt-own #food {
+  padding: 15px;
+}
+.menu .menu-own .mail {
+  display: flex;
+  justify-content: end;
+  width: 640px;
+  height: 69px;
+  font-size: 24px;
+}
+.menu .menu-own .mail #email {
+  padding: 15px;
+}
+
+.own-box {
+  width: 75%;
+  margin: auto;
+}
+.own-box .images {
+  flex-wrap: wrap;
+  margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.own-box .images .imgg {
+  width: 24%;
+  height: 590px;
+}
+.own-box .images .imgg #ownn {
+  font-size: 25px;
+}
+.own-box .images .imgg #lorem {
+  margin-top: 15px;
+  font-size: 15px;
+  opacity: 0.8;
+}
+.own-box .nums {
+  width: 100%;
+  height: 90px;
+  justify-content: center;
+  display: flex;
+}
+.own-box .nums .numb {
+  display: flex;
+  justify-content: center;
+}
+.own-box .nums .numb .but {
+  width: 40px;
+  height: 50px;
+}
+.own-box .nums .numb .but #on {
+  padding: 15px;
+}
+.own-box .nums .numb .but #on1 {
+  padding: 15px;
+  background-color: black;
+  color: white;
+}
+.own-box .hrr {
+  width: 100%;
+  height: 2px;
+  background-color: rgba(0, 0, 0, 0.44);
+}
+.own-box .txt11 {
+  width: 100%;
+  height: 80px;
+}
+.own-box .txt11 #abm {
+  width: 30%;
+  margin: auto;
+  font-size: 30px;
+}
+.own-box .photog {
+  margin: auto;
+  width: 60%;
+}
+.own-box .txt121 {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+}
+.own-box .txt121 #aba {
+  width: 208px;
+  margin: auto;
+  font-size: 20px;
+  font-weight: bold;
+}
+.own-box .gg {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+.own-box .gg #gq {
+  width: 340px;
+  margin: auto;
+  font-size: 20px;
+}/*# sourceMappingURL=main.css.map */

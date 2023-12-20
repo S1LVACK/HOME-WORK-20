@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bar:hover{
+    background-color: rgba(128, 128, 128, 0.459);
+    transition: 0.80s;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#on1:hover{
+    opacity: 0.8;
+    transition: 0.80s;
+}
+
+#on:hover{
+    background-color: black;
+    color: white;
+    transition: 0.80s;
+}
